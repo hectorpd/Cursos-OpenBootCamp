@@ -1,0 +1,24 @@
+{
+  "name":"ejercicios-de-openbootcamp",
+  "version": "1.0.0",
+  "description": "primer ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ejercicio1": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorpd/Cursos-OpenBootCamp.git"
+  },
+  "keywords": [
+    "ejercicio-hola-mundo"
+  ],
+  "author": "Hector Padron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorpd/Cursos-OpenBootCamp/issues"
+  },
+  "homepage": "https://github.com/hectorpd/Cursos-OpenBootCamp#readme"
+}
